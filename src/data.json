@@ -1,0 +1,91 @@
+{
+  "nav": {
+    "logo": "Moiz Farooq| FullStack Developer, Generative AI, NLP, Data Science |" ,
+    
+    "links": [
+      {
+        "title": "LinkedIn",
+        "url": "https://www.linkedin.com/in/moiz-farooq-609758227/"
+      },
+      {
+        "title": "PROJECTS",
+        "url": "https://www.linkedin.com/in/moiz-farooq-609758227/"        
+      },
+      {
+          "title": "Github",
+          "url": "https://github.com/MoizFaroq"
+      }
+    ]
+  },
+
+  "intro": {
+    "description": "I'm a FullStack Developer, Generative AI, NLP, Data Science",
+    "heading": "Building the <span class='italic'> future </span> one line of code at a time",
+    "icon": "/icons/intro-icon.svg"
+  },
+   
+  "portrait": {
+    "image": "/portrait.png"
+  },
+
+  "about": {
+    "text": "Dynamic web developer with a passion for crafting seamless, interactive user experiences. Combining the power of React.js and Next.js with sleek designs using Tailwind CSS and SCSS, bringing a clean, responsive touch to every project. With expertise in frontend animations using Framer Motion, ensuring each interaction is smooth, engaging, and memorable. having a strong foundation in backend development with PHP, enabling me to create full-stack solutions ",
+    "icon": "/icons/about-icon.svg"
+  },
+
+  "contact": {
+    "label": "Have some questions?",
+    "heading": "Contact <span class='italic'>me</span>",
+    "linkIcon": "/icons/arrow-icon.svg",
+    "email": "hello@rauftech.com"
+  },
+
+  "work": {
+    "projects": [
+
+      {
+        "title": "Vehicle Plate Recognition Raspberry Pi ",
+        "url": "",
+        "media": "/nlp.jpg"
+      },
+      {
+        "title": "Network Engineer Project", 
+        "url": "",
+        "media": "/network.jpeg"
+
+      },
+            
+      {
+        "title": "Churn Prediction Model for Bank",
+        "url": "",
+        "media": "/gui.png"
+
+      },
+      {
+        "title": "Intelligent Mirror with Respber Pi",
+        "url": "",
+        "media": "/intelligent.png"
+
+      }
+    ],
+    "linkIcon": "/icons/arrow-icon-black.svg"  
+  },
+
+ 
+  "socials": {
+    "links": [
+      {
+        "title": "Figma",
+        "url": ""
+      },
+      {
+        "title": "Instagram",
+        "url": ""
+      },
+      {
+        "title": "Twitter",
+        "url": ""
+      }
+    ]
+  }
+}
