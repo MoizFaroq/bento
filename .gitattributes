@@ -1,1 +1,6 @@
+node_modules/
+.next/
+.DS_Store
+*.log filter=lfs diff=lfs merge=lfs -text
+npm-debug.log*
 *.node filter=lfs diff=lfs merge=lfs -text
