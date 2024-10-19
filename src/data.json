@@ -20,7 +20,7 @@
 
   "intro": {
     "description": "I'm a FullStack Developer, Generative AI, NLP, Data Science",
-    "heading": "Building the <span class='italic'> future </span> one line of code at a time",
+    "heading": "Building the <span class='italic'> future </span> one line of code at a Time.",
     "icon": "/icons/intro-icon.svg"
   },
    
@@ -29,7 +29,7 @@
   },
 
   "about": {
-    "text": "Dynamic web developer with a passion for crafting seamless, interactive user experiences. Combining the power of React.js and Next.js with sleek designs using Tailwind CSS and SCSS, bringing a clean, responsive touch to every project. With expertise in frontend animations using Framer Motion, ensuring each interaction is smooth, engaging, and memorable. having a strong foundation in backend development with PHP, enabling me to create full-stack solutions ",
+    "text": "Dynamic web developer with a passion for crafting seamless, interactive user experiences. Combining the power of React.js and Next.js with sleek designs using Tailwind, CSS and SCSS, bringing a clean, responsive touch to every project. With expertise in frontend animations using Framer Motion, ensuring each interaction is smooth, engaging, and memorable. Having a strong foundation in backend development with PHP, enabling me to create full-stack solutions. ",
     "icon": "/icons/about-icon.svg"
   },
 
@@ -44,7 +44,7 @@
     "projects": [
 
       {
-        "title": "Vehicle Plate Recognition Raspberry Pi ",
+        "title": "VehiclePlate Recognition RaspberryPi ",
         "url": "",
         "media": "/nlp.jpg"
       },
@@ -56,13 +56,13 @@
       },
             
       {
-        "title": "Churn Prediction Model for Bank",
+        "title": "Churn Prediction Model",
         "url": "",
         "media": "/gui.png"
 
       },
       {
-        "title": "Intelligent Mirror with Respber Pi",
+        "title": "Intelligent Mirror RaspberryPi",
         "url": "",
         "media": "/intelligent.png"
 

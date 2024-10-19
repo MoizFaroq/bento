@@ -1,2 +1,5 @@
 node_modules/
 .next/
+.DS_Store
+*.log
+npm-debug.log*
